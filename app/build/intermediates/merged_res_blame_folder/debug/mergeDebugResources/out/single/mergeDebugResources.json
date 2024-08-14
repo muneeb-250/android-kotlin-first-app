@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/apptycoons/.gradle/daemon/8.6/com.example.happybirthday.app-debug-44:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/apptycoons/.gradle/daemon/8.6/com.example.happybirthday.app-main-46:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/apptycoons/.gradle/daemon/8.6/com.example.happybirthday.app-debug-44:/xml_backup_rules.xml.flat",
+        "source": "/Users/apptycoons/.gradle/daemon/8.6/com.example.happybirthday.app-main-46:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/apptycoons/.gradle/daemon/8.6/com.example.happybirthday.app-debug-44:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/apptycoons/.gradle/daemon/8.6/com.example.happybirthday.app-main-46:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/apptycoons/.gradle/daemon/8.6/com.example.happybirthday.app-debug-44:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/apptycoons/.gradle/daemon/8.6/com.example.happybirthday.app-main-46:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/apptycoons/.gradle/daemon/8.6/com.example.happybirthday.app-debug-44:/drawable_flower.jpg.flat",
+        "source": "/Users/apptycoons/.gradle/daemon/8.6/com.example.happybirthday.app-main-46:/drawable/flower.jpg"
+    },
+    {
+        "merged": "/Users/apptycoons/.gradle/daemon/8.6/com.example.happybirthday.app-debug-44:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/apptycoons/.gradle/daemon/8.6/com.example.happybirthday.app-main-46:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/apptycoons/.gradle/daemon/8.6/com.example.happybirthday.app-debug-44:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/apptycoons/.gradle/daemon/8.6/com.example.happybirthday.app-main-46:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/apptycoons/.gradle/daemon/8.6/com.example.happybirthday.app-debug-44:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/apptycoons/.gradle/daemon/8.6/com.example.happybirthday.app-main-46:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/apptycoons/.gradle/daemon/8.6/com.example.happybirthday.app-debug-44:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/apptycoons/.gradle/daemon/8.6/com.example.happybirthday.app-main-46:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/apptycoons/.gradle/daemon/8.6/com.example.happybirthday.app-debug-44:/drawable_building.png.flat",
+        "source": "/Users/apptycoons/.gradle/daemon/8.6/com.example.happybirthday.app-main-46:/drawable/building.png"
+    },
+    {
+        "merged": "/Users/apptycoons/.gradle/daemon/8.6/com.example.happybirthday.app-debug-44:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/apptycoons/.gradle/daemon/8.6/com.example.happybirthday.app-main-46:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/apptycoons/.gradle/daemon/8.6/com.example.happybirthday.app-debug-44:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/apptycoons/.gradle/daemon/8.6/com.example.happybirthday.app-main-46:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/apptycoons/.gradle/daemon/8.6/com.example.happybirthday.app-debug-44:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/apptycoons/.gradle/daemon/8.6/com.example.happybirthday.app-main-46:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/apptycoons/.gradle/daemon/8.6/com.example.happybirthday.app-debug-44:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/apptycoons/.gradle/daemon/8.6/com.example.happybirthday.app-main-46:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/apptycoons/.gradle/daemon/8.6/com.example.happybirthday.app-debug-44:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/apptycoons/.gradle/daemon/8.6/com.example.happybirthday.app-main-46:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/apptycoons/.gradle/daemon/8.6/com.example.happybirthday.app-debug-44:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/apptycoons/.gradle/daemon/8.6/com.example.happybirthday.app-main-46:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/apptycoons/.gradle/daemon/8.6/com.example.happybirthday.app-debug-44:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/apptycoons/.gradle/daemon/8.6/com.example.happybirthday.app-main-46:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/apptycoons/.gradle/daemon/8.6/com.example.happybirthday.app-debug-44:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/apptycoons/.gradle/daemon/8.6/com.example.happybirthday.app-main-46:/mipmap-mdpi/ic_launcher_round.webp"
+    }
+]
